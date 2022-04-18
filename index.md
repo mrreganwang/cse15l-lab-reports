@@ -31,4 +31,4 @@ line 2
 ```
 
 ## Link to Lab Report 1
-[Link](https://mrreganwang.github.io/cse15l-lab-reports/lab-report-1-week2)
+[Link](https://mrreganwang.github.io/cse15l-lab-reports/lab-report-1-week-2)
