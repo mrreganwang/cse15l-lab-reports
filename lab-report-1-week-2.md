@@ -102,6 +102,17 @@ cp WhereAmI.java OtherMain.java; javac OtherMain.java; java WhereAmI
 - Using the semicolon, you can run multiple commands on the same line
 -  You can also use the up arrow to recall the last command that was run
 
+Here's something you can try to test out a command you've learned earlier 
+```
+scp fileName.java sc15lsp22zz@ieng6.ucsd.edu
+```
+and combine it with what you learn in this step.
+To move a file onto the remote server, compile, and run the file without logging in, you can try the following command using what you've learned about semicolons: 
+```
+scp fileName.java  cs15lsp22zz@ieng6.ucsd.edu:~/; ssh cs15lsp22zz@ieng6.ucsd.edu "javac fileName.java"; ssh cs15lsp22zz@ieng6.ucsd.edu "java fileName"
+```
+Here's an example of the code being ran:
+![image](Upload.png)
 
 
 
