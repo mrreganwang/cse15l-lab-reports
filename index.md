@@ -29,3 +29,6 @@ Code Block
 line 1
 line 2
 ```
+
+## Link to Lab Report 1
+[Link](https://mrreganwang.github.io/cse15l-lab-reports/labreport-1-week2)
