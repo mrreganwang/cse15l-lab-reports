@@ -37,4 +37,4 @@ line 2
 [Link](https://mrreganwang.github.io/cse15l-lab-reports/lab-report-2-week-4)
 
 ## Link to Lab Report 3
-[Link]()
+[Link](https://mrreganwang.github.io/cse15l-lab-reports/lab-report-3-week-6)
