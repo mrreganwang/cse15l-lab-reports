@@ -25,7 +25,7 @@ ssh ieng6
 Again, the "ieng6" here can be replaced by your own alias. Here's an example of me logging onto my remote account using the above command. 
 ![image](sshAlias.png)
 
-Now, the scp command from lab report 1 can be ran using the alias for easier transfer of file. Check section 4 from [lab report 1](mrreganwang.github.io/cse15l-lab-reports/lab-report-1-week-2) for info on scp command. 
+Now, the scp command from lab report 1 can be ran using the alias for easier transfer of file. Check section 4 from [lab report 1](https://mrreganwang.github.io/cse15l-lab-reports/lab-report-1-week-2) for info on scp command. 
 
 Here's an example of the file transfer
 ![image](scpLab3.png)
