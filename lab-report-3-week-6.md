@@ -35,12 +35,17 @@ Here's an example of the file transfer. (The file I moved is called "Lab3.java")
 
 ## Copy whole directories with scp -r
 To copy a directory takes a bit more than just the `scp` command. We have to copy the files recursively. Here's an example of me copying my MarkdownParse directory to my remote server. 
-![image](copyDirectory.png)
+![image](copyDirectory1.png)
+![image](copyDirectory2.png)
+![image](copyDirectory3.png)
 
-Here is me running the tests remotely
-![image](remoteTest.png)
+Here's me running the tests remotely
+![image](compile&run.png)
 
-Using what we've learned from lab report 1, the process of copying the directing, compiling the test, and running test can be done in single step. Here's an example
+Using what we've learned from lab report 1, the process of copying the directory, compiling the test, and running test can be done in a single step. Here's an example
+
+![image](copy+runTest1.png)
+![image](copy+runTest2.png)
 
 
 
