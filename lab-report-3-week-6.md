@@ -12,22 +12,23 @@ Host ieng6
     IdentityFile ~/.ssh/id_rsa
 
 ```
-Here's an example of it being ran in TextEdit for mac. 
+Here's an example of it being ran in TextEdit on mac. 
 
 ![image](config.png)
 
-Note that in this example, the name after "host" is just an alias, you can change it to whatever name you want. 
+Note that in this example, the name after "host" is just an alias, you can change it to whatever name you want. I've decided to use the name "Alias" for my examples. 
 
 Then, you can log onto your remote server using 
 ```
 ssh ieng6
 ```
-Again, the "ieng6" here can be replaced by your own alias. 
+Again, the "ieng6" here can be replaced by your own alias. Here's an example of me logging onto my remote account using the above command. 
+![image](sshAlias.png)
 
-Now, the scp command from lab report 1 can be run using the alias for easier transfer of file. 
+Now, the scp command from lab report 1 can be ran using the alias for easier transfer of file. Check section 4 from [lab report 1](mrreganwang.github.io/cse15l-lab-reports/lab-report-1-week-2) for info on scp command. 
 
-Here's an example of the log in and file transfer
-![image](aliasscp.png)
+Here's an example of the file transfer
+![image](scpLab3.png)
 
 ## Setup Github Access from ieng6
 
@@ -38,6 +39,8 @@ To copy a directory takes a bit more than just the `scp` command. We have to cop
 
 Here is me running the tests remotely
 ![image](remoteTest.png)
+
+Using what we've learned from lab report 1, the process of copying the directing, compiling the test, and running test can be done in single step. Here's an example
 
 
 
