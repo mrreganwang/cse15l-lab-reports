@@ -31,7 +31,17 @@ Here's an example of the file transfer. (The file I moved is called "Lab3.java")
 ![image](scpLab3.png)
 
 ## Setup Github Access from ieng6
+This is where the public key is stored on my GitHub account
+![image](githubKey.png)
 
+On my account, both the private and public key are stored in the .ssh directory. 
+![image](ssh.png)
+
+Once the public key has be stored on GitHub, we can now commit and push changes to GitHub while logged onto the remote server. Here's an example of how it's done:
+![image](commitPush.png)
+
+and here is a screenshot of the commit history on my GitHub account: 
+![image](commitHistory.png)
 
 ## Copy whole directories with scp -r
 To copy a directory takes a bit more than just the `scp` command. We have to copy the files recursively. Here's an example of me copying my MarkdownParse directory to my remote server. 
