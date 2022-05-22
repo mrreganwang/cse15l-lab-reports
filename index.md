@@ -38,3 +38,6 @@ line 2
 
 ## Link to Lab Report 3
 [Link](https://mrreganwang.github.io/cse15l-lab-reports/lab-report-3-week-6)
+
+## Link to Lab Report 4
+[Link](https://mrreganwang.github.io/cse15l-lab-reports/lab-report-4-week-8)
