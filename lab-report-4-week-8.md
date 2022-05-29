@@ -24,5 +24,10 @@ our implementation:
 other group's implementation:
 ![image](theirResult.png)
 
+For Snippet 1, I believe there is a way of resolving the issue by making small code changes within 10 lines. One way we can do this is to keep track of the index of the backticks and compare them to the index of open or closed bracket to determine whether we want to keep the link or not. 
+
+For Snippet 2, I believe there is also a way of resolving the issue by making small code changes. One way of doing so it to keep updating the the index of the closed parenthesis until we get to the last closed parenthesis. 
+
+For Snippet 3, It's a bit more difficult but I think it can also be done within 10 lines. To fix the spaces we can just write an if-statement to check if the character is space. As for the closing parenthesis issue we can do a check so that if we reach an opening bracket without finding a closed parenthesis it'll just not get added to the returned arrayList. 
 
 
