@@ -6,8 +6,10 @@ for the implementation from lab 9 and our implementation.
 We chose testfile [567](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/567.md) and [578](https://github.com/nidhidhamnani/markdown-parser/blob/main/test-files/578.md). 
 
 For 567:
+
 Here is the output from our implementation
 ![image](567ours.png)
+
 Here is the output from lab9's implementation
 ![image](567lab.png)
 
@@ -25,8 +27,10 @@ This is where it causes an error
 ![image](567error.png)
 
 For 578:
+
 Here is the output from our implementation
 ![image](578ours.png)
+
 Here is the output from lab9's implementation
 ![image](578lab.png)
 
